@@ -1,0 +1,7 @@
+Install anaconda3 with python
+open spyder
+install pip
+copy below code and paste in console
+
+
+!pip install tk-tools pandas urllib3 ipaddress clipboard bs4 whois datetime requests scikit-learn==0.22.2.post1 xgboost==0.90
